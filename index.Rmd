@@ -1,0 +1,13 @@
+---
+title: "Matt Kavanaugh's STAT 585 Website"
+---
+
+Hello everyone! My name is Matt Kavanaugh, and I am a first-year master's student
+in the agricultural meteorology program at Iowa State University. I conduct
+research on remote sensing and specifically how it is being used to measure soil
+moisture in agricultural regions, particularly in the Midwestern USA. R is not my
+primary programming language, however I do use it periodically for statistical
+analysis of my datasets. It is very convenient and fun to use for the most part.
+My favorite package that we have discussed thus far is tabulizer. It is so cool
+that this package is able to convert data from PDFs into .csv or other data file
+types. I plan to use it more frequently going forward in this class and beyond.

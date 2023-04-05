@@ -1,0 +1,7 @@
+name: "Matt Kavanaugh's Stat 585 Website"
+output_dir: "."
+navbar:
+  title: "Hello Y'all"
+  left:
+    - text: "Home"
+      href: index.html
