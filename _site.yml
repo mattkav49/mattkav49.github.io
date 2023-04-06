@@ -5,3 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Interests and Future Pursuits"
+      href: interests.html
+    - text: "Matt Kavanaugh's Resume"
+      href: MatthewG.KavanaughSummer2022Resume.html
